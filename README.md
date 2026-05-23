@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Mohajith Pundarik 👋</h1>
 
 <h3 align="center">BSc Computer Science Graduate | Aspiring AI/ML Engineer | Learning Every Single Day 🚀</h3>
-<br/>
+
 
 ---
 
