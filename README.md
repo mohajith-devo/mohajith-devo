@@ -46,10 +46,10 @@
 | Day | Topic | Status |
 |-----|-------|--------|
 | Day 1 | Python Basics — Variables, Data Types, Input/Output | ✅ |
-| Day 2 | Python — Functions and Loops | 🔄 Coming soon |
-| Day 3 | Python — Lists, Dictionaries, Sets | 🔄 Coming soon |
-| Day 4 | NumPy — Arrays and Operations | 🔄 Coming soon |
-| Day 5 | Pandas — DataFrames and CSV files | 🔄 Coming soon |
+| Day 2 | Python — Functions and Loops | ✅ |
+| Day 3 | Python — Lists, Dictionaries, Sets | ✅ |
+| Day 4 | NumPy — Arrays and Operations | ✅ |
+| Day 5 | Pandas — DataFrames and CSV files |✅|
 
 📌 **[See my full daily tracker here →](https://github.com/mohajith-devo/AI-ML-Daily-Tracker)**
 
