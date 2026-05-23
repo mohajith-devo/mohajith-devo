@@ -11,7 +11,7 @@
 - 🤖 Passionate about **Artificial Intelligence** and **Machine Learning**
 - 📅 Uploading my AI/ML learning journey **every single day** — no days off!
 - 🌱 Currently learning: **Python → Pandas → NumPy → Scikit-learn → ML Models**
-- 🎯 Goal: Land my first AI/ML or Data role in 2025
+- 🎯 Goal: Land my first AI/ML or Data role in 2026
 - 📍 Based in **Nandigama, Andhra Pradesh, India**
 
 ---
